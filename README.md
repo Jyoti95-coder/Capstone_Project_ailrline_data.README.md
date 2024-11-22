@@ -14,11 +14,11 @@ In this project, the ‘Arrival Delay in Minutes’ column has 310 missing value
 Data Visualisation plays an important role in understanding the data as it gives an overview of the data before the model implementation. Exploratory Data Analysis is done for the dataset.
 
 # Models
-ML models are used in this project to check for maximum efficiency. They are,
+ML models are used in this project to check for maximum efficiency. 
 
-Logistic Regression
-Naive Bayes
-linear regression
-logistic regression
+## Logistic Regression
+## Naive Bayes
+## linear regression
+
 
 
